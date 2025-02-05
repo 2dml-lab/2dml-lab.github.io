@@ -1,0 +1,15 @@
+<div class="content" id="home">
+  <div id="sidebar-button">
+    <img src="/images/sidebar-button.png">
+  </div>
+  {% unless page.categories contains 'home' %}
+    <div id="post-info">
+      <div id="info-container">
+        <h1 id="title" style="color:#d50032;">{{ page.title }}</h1>
+      </div>
+    </div>
+  {% endunless %}
+  <div class="post">
+    {{ content }}
+  </div>
+</div>

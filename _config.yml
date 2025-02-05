@@ -1,0 +1,9 @@
+title: '2DML Lab'
+description: 'The Domain-Driven Machine Learning Lab at the University of Edinburgh'
+markdown: kramdown
+rouge: true
+permalink: /:title.html
+url: http://2dml-lab.github.io
+
+plugins:
+  - jekyll-seo-tag
