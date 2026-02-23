@@ -20,7 +20,7 @@ Students are in their third year of one of three programmes; Business with Decis
 
 ## Deadline
 
-Students interested in this year's project should reach out via email to the respective advisor before the 1st of May 2026 to schedule a meeting; earlier contact is encouraged, as each project is limited to one student. If the project is allocated before the deadline, it will be marked as unavailable.
+Students interested in a project should reach out via email to the respective advisor before the 1st of May for a given year to schedule a meeting; earlier contact is encouraged, as each project is limited to one student. If the project is allocated before the deadline, it will be marked as unavailable.
 
 <br>
 
