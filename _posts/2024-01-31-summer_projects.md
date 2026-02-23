@@ -14,7 +14,7 @@ Most years, the 2DML Lab offers at least one undergraduate summer project, which
 
 ## Eligibility
 
-Students need to be in their third year of one of three programmes; Business with Decision Analytics, Business and Economics, and Business with Strategic Economics, and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (like BUST10145 or BUST10133). Summer research projects are in-person with regular meetings and are not available remotely. They are not available to Master's students, as the time frame overlaps with the dissertation phase.
+Students need to be in their third year of either Business with Decision Analytics, Business and Economics, or and Business with Strategic Economics, and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (like BUST10145 or BUST10133). Summer research projects are in-person with regular meetings and are not available remotely. They are not available to Master's students, as the time frame overlaps with the dissertation phase.
 
 ## Deadline
 
@@ -22,7 +22,7 @@ Students interested in this year's project should reach out via email to the res
 
 <br>
 
-**2026 project:** Pandemic impacts on crime and recovery: Socioeconomic deprivation and vulnerability in Chicago (advisor: Ben Moews | email: ben.moews@ed.ac.uk)
+**2026 project:** Pandemic impacts on crime and recovery: Socioeconomic deprivation and vulnerability in Chicago (advisor: Ben Moews, email: ben.moews@ed.ac.uk)
 
 **Description:** The COVID-19 pandemic affected many aspects of life, including the spatial distribution and frequency of different crime types during prevention policy measures. The objective of this project is to investigate the interactions COVID-19 crime impacts and socioeconomic factors. As such, the project has a methodological focus on spatial statistics and time series analysis, with options such as cluster analysis as part of unsupervised machine learning. Students will be provided with fine-grained spatio-temporal data on crime incident reports for the City of Chicago, while socioeconomic hardship data is availale through the American Community Survey 5-Year Estimates.
 
