@@ -10,11 +10,13 @@ categories: posts
 
 ## Overview
 
-Most years, the 2DML Lab offers at least one undergraduate summer project, which are more common in fields like physics and computer science. They take place during the summer break (June to August), are unfunded and not for credit, and meant for students between their third and fourth year who wish to gain research experience. If done excellently, these project also have the potential to be further refined into a publication with the student as the first author.
+Most years, the 2DML Lab offers at least one undergraduate summer research project, which are more common in fields like physics and computer science. They take place during the summer break (June to August), are unfunded and not for credit, and meant for students between their third and fourth year who wish to gain research experience. If done excellently, these project also have the potential to be further refined into a publication with the student as the first author.
 
 ## Eligibility
 
-Students need to be in their third year of one of three programmes; Business with Decision Analytics, Business and Economics, or Business with Strategic Economics, and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (like BUST10145 or BUST10133). Summer projects take place in-person and are not available remotely.
+<!--Students need to be in their third year of either Business with Decision Analytics, Business and Economics, or Business with Strategic Economics, and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (like BUST10145 or BUST10133). Summer research projects take place in-person and are not available remotely.-->
+
+Students need to be in their third year of one of three programmes; Business with Decision Analytics, Business and Economics, or Business with Strategic Economics, and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (like BUST10145 or BUST10133). These projects take place in-person and are not available remotely.
 
 ## Deadline
 
