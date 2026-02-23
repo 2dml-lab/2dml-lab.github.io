@@ -24,7 +24,7 @@ Students interested in this year's project should reach out via email to the res
 
 <br>
 
-**2026 project:** Pandemic impacts on crime and recovery: Socioeconomic deprivation and vulnerability in Chicago (advisor: Ben Moews, email: ben.moews@ed.ac.uk)
+**2026 project:** Pandemic impacts on crime and recovery: Socioeconomic deprivation and vulnerability in Chicago (advisor: Ben Moews, email: ben.moews@ed.ac.uk) <codes style="color: green">[available]</code>
 
 **Description:** The COVID-19 pandemic affected many aspects of life, including the spatial distribution and frequency of different crime types during prevention policy measures. The objective of this project is to investigate the interactions COVID-19 crime impacts and socioeconomic factors. As such, the project has a methodological focus on spatial statistics and time series analysis, with options such as cluster analysis as part of unsupervised machine learning. Students will be provided with fine-grained spatio-temporal data on crime incident reports for the City of Chicago, while socioeconomic hardship data is available through the American Community Survey 5-Year Estimates.
 
