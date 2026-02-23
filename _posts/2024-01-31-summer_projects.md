@@ -20,7 +20,7 @@ Students need to be in their third year of one of three programmes; Business wit
 
 ## Deadline
 
-Students interested in this year's project should reach out via email to the respective advisor before the 1st of May 2026 to schedule a meeting; earlier contact is encouraged, as each project is limited to one student. If the project is allocated before the deadline, it will be marked as unavailable below.
+Students interested in this year's project should reach out via email to the respective advisor before the 1st of May 2026 to schedule a meeting; earlier contact is encouraged, as each project is limited to one student. If the project is allocated before the deadline, it will be marked as unavailable.
 
 <br>
 
