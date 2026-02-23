@@ -22,11 +22,11 @@ Students interested in this year's project are welcome to reach out via email un
 
 <code>
 **Year:** 2026
-
+ 
 **Advisor:** Ben Moews
-
+ 
 **Title:** Pandemic impacts on crime and recovery: Socioeconomic deprivation and vulnerability in Chicago
-
+ 
 **Description:** The COVID-19 pandemic affected many aspects of life, including the spatial distribution and frequency of different crime types during prevention policy measures. The objective of this project is to investigate the interactions of before-and-after COVID-19 crime impacts and socioeconomic factors. As such, the project has a methodological focus on spatial statistics and time series analysis, with further options such as cluster analysis as part of unsupervised machine learning. Students will be provided with fine-grained spatio-temporal data on crime incident reports for the City of Chicago, while socioeconomic hardship data is availale through the American Community Survey 5-Year Estimates.
 </code>
 
