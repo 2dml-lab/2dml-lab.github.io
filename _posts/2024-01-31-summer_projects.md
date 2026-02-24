@@ -16,7 +16,7 @@ During most years, the 2DML Lab offers an undergraduate summer research project,
 
 <!--Students need to be in their third year of either Business with Decision Analytics, Business and Economics, or Business with Strategic Economics, and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (like BUST10145 or BUST10133). Summer research projects take place in-person and are not available remotely.-->
 
-Students are in their third year of one of three programmes; Business with Decision Analytics, Business and Economics, or Business with Strategic Economics, and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (such as BUST10145 or BUST10133). These projects take place in-person, with regular meetings, and are not available remotely.
+Students are in their third year of one of three programmes; Business with Decision Analytics, Business and Economics, or Business with Strategic Economics, and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (such as BUST10133). These projects take place in-person, with regular meetings during that time, and are not available remotely.
 
 ## Deadline
 
