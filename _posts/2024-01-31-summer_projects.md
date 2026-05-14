@@ -12,19 +12,19 @@ categories: posts
 
 ## Overview
 
-During most years, the 2DML Lab offers an undergraduate summer research project, which are more common in fields like physics and computer science. They take place during the summer break for undergraduate programmes (June to August), are unfunded and not for credit, and meant specifically for students between their third and fourth year who wish to gain research experience. Students are welcome to apply for external funding such as the {Carnegie Vacation Scholarship](https://carnegie-trust.org/award-schemes/vacation-scholarships). If done excellently, these projects also have the potential to be further refined into a publication.
+During most years, the 2DML Lab offers an undergraduate summer research project, which are more common in fields like physics and computer science. They take place during the summer break (June to August), are not for credit, and meant specifically for students who wish to gain research experience. Students are welcome to apply for external funding such as the {Carnegie Vacation Scholarship](https://carnegie-trust.org/award-schemes/vacation-scholarships). If done excellently, these projects also have the potential to be further refined into a publication.
 
 ## Eligibility
 
-Students are in their third year of one of a four-year undergraduate degree programme at the University of Edinburgh and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (such as BUST10133). Further requirements, if applicable, are listed in each project's description. These projects take place in-person, with regular meetings in that period, and are not available remotely.
+Students are in their third year of a four-year undergraduate programme at the University of Edinburgh and have taken at least one course each in programming and statistics at level 10 or above. Further requirements, if applicable, are listed in each project's description. These projects take place in-person, with regular meetings in that period, and are not available remotely.
 
 ## Deadline
 
-Students interested in a project should reach out via email to the respective advisor before the 1st of May for a given year to schedule a meeting; earlier contact is encouraged, as each project is limited to one student. If the project is allocated before the deadline, it will be marked as unavailable.
+Students interested in a project should reach out via email to the respective advisor before the 1st of April for a given year to schedule a meeting; earlier contact is encouraged, as each project is limited to one student. If the project is allocated before the deadline, it will be marked as unavailable.
 
 <br>
 
-**2026 project:** Pandemic impacts on crime and recovery: Socioeconomic deprivation and vulnerability in Chicago (advisor: Ben Moews, ben.moews@ed.ac.uk) **<code style="color: #004D4F">&nbsp;[available]&nbsp;</code>**
+**2027 project:** Pandemic impacts on crime and recovery: Socioeconomic deprivation and vulnerability in Chicago (advisor: Ben Moews, ben.moews@ed.ac.uk) **<code style="color: #004D4F">&nbsp;[available]&nbsp;</code>**
 
 <!--**2026 project:** Pandemic impacts on crime and recovery: Socioeconomic deprivation and vulnerability in Chicago (advisor: Ben Moews, ben.moews@ed.ac.uk) **<code style="color: #d50032">[unavailable]</code>**-->
 
