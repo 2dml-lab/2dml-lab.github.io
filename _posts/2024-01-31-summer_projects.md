@@ -16,7 +16,7 @@ During most years, the 2DML Lab offers an undergraduate summer research project,
 
 ## Eligibility
 
-Students are in their third year of a four-year undergraduate programme at the University of Edinburgh and have taken at least one course each in programming and statistics at level 10 or above. Further requirements, if applicable, are listed in each project's description. These projects take place in-person, with regular meetings in that period, and are not available remotely.
+Students are in their third year of a four-year undergraduate programme at the University of Edinburgh and have taken at least one course each in programming and statistics during their university studies. Further requirements, if applicable, are listed in each project's description. These projects take place in-person, with regular meetings in that period, and are not available remotely.
 
 ## Deadline
 
