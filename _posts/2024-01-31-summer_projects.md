@@ -14,7 +14,7 @@ categories: posts
 
 During most years, the 2DML Lab offers an undergraduate summer research project, which are more common in fields like physics and computer science. They take place during the summer break (June to August), are not for credit, and meant specifically for students who wish to gain research experience.
 
-Students are welcome to apply for external funding such as the [Carnegie Vacation Scholarship](https://carnegie-trust.org/award-schemes/vacation-scholarships), but this isn't required and the deadline is usually in February. If done excellently, these projects also have the potential to be further refined into a publication.
+Students are welcome to apply for external funding such as the [Carnegie Vacation Scholarship](https://carnegie-trust.org/award-schemes/vacation-scholarships), but this isn't required and requires an earlier application, as the deadline is usually in February. If done excellently, these projects also have the potential to be further refined into a publication.
 
 ## Eligibility
 
