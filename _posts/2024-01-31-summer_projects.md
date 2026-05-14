@@ -20,7 +20,7 @@ Students are in their third year of a four-year undergraduate programme at the U
 
 ## Deadline
 
-Students interested in a project should reach out via email to the respective advisor before the 1st of April for a given year to schedule a meeting; earlier contact is encouraged, as each project is limited to one student. Students are welcome to apply for external funding such as the [Carnegie Vacation Scholarship](https://carnegie-trust.org/award-schemes/vacation-scholarships), but this requires an earlier application, as the deadline is usually in February. If the project is allocated before the deadline, it will be marked as unavailable.
+Students interested in a project should reach out via email to the respective advisor before the 1st of April for a given year to schedule a meeting; earlier contact is encouraged, as each project is limited to one student. Students are welcome to apply for external funding such as the [Carnegie Vacation Scholarship](https://carnegie-trust.org/award-schemes/vacation-scholarships), but this requires an earlier application, as its deadline is usually in February. If the project is allocated before the 1st of April, it will be marked as unavailable.
 
 <br>
 
