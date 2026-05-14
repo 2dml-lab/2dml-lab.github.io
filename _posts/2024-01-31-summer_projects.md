@@ -12,13 +12,11 @@ categories: posts
 
 ## Overview
 
-During most years, the 2DML Lab offers an undergraduate summer research project, which are more common in fields like physics and computer science. They take place during the summer break for undergraduate programmes (June to August), are unfunded and not for credit, and meant specifically for students between their third and fourth year who wish to gain research experience. If done excellently, these projects also have the potential to be further refined into a publication.
-
-<!--(although students are welcome to apply for external funding such as the {Carnegie Vacation Scholarship](https://carnegie-trust.org/award-schemes/vacation-scholarships)-->
+During most years, the 2DML Lab offers an undergraduate summer research project, which are more common in fields like physics and computer science. They take place during the summer break for undergraduate programmes (June to August), are unfunded and not for credit, and meant specifically for students between their third and fourth year who wish to gain research experience. Students are welcome to apply for external funding such as the {Carnegie Vacation Scholarship](https://carnegie-trust.org/award-schemes/vacation-scholarships). If done excellently, these projects also have the potential to be further refined into a publication.
 
 ## Eligibility
 
-Students are in their third year of one of three programmes; Business with Decision Analytics, Business and Economics, or Business with Strategic Economics, and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (such as BUST10133). These projects take place in-person, with regular meetings in that period, and are not available remotely.
+Students are in their third year of one of a four-year undergraduate degree programme at the University of Edinburgh and have taken at least one course each in programming (like BUST08039) and statistics at level 10 or above (such as BUST10133). Further requirements, if applicable, are listed in each project's description. These projects take place in-person, with regular meetings in that period, and are not available remotely.
 
 ## Deadline
 
