@@ -10,7 +10,7 @@ categories: posts
 
 ## Overview
 
-During most years, the 2DML Lab offers an undergraduate summer research project, which are more common in fields like physics and computer science. They take place during the summer break (June to August), are not for credit, and meant for students who wish to gain research experience. If done excellently, they also have the potential to be refined into a publication, with the student as first author.
+During most years, the 2DML Lab offers an undergraduate summer research project. They take place during the summer break (June to August), are not for credit, and are meant for students who wish to gain research experience. If done excellently, they also have the potential to be further refined into a publication, with the student as first author.
 
 ## Eligibility
 
